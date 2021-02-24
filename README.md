@@ -1,3 +1,4 @@
 # hello-world
-my first repo\n
+my first repo
+
 In the editor, write a bit about yourself.
